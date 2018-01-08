@@ -1,0 +1,3 @@
+# PhotoTimer
+
+(c) Rauba ALexey
