@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Photo Timer</string>
+    <string name="deleteImageButtonLabel">Delete Picture</string>
+    <string name="shareImageButtonLabel">Share Picture</string>
+    <string name="exitViewImageButtonLabel">Return</string>
+
+    <string name="gridDeleteButtonLabel">Delete</string>
+    <string name="gridViewButtonLabel">View</string>
+
+    <string name="helpButtonLabel">Help</string>
+    <string name="libraryButtonLabel">Library</string>
+    <string name="singleImageButtonLabel">1 Pic</string>
+    <string name="multiImageButtonLabel">4 Pics</string>
+    <string name="switchCameraButtonLabel">Switch Camera</string>
+    <string name="cancelPictureButtonLabel">Cancel Picture</string>
+
+    <string name="delayButtonLabelSecondsFormat">Delay: %d Sec</string>
+    <string name="delayButtonLabelNone">Delay: None</string>
+    <string name="defaultDelayButtonLabel">Delay: 5 Sec</string>
+
+    <string name="flashButtonDefaultLabel">Flash</string>
+    <string name="flashButtonOnLabel">Flash: On</string>
+    <string name="flashButtonOffLabel">Flash: Off</string>
+    <string name="flashButtonAutoLabel">Flash: Auto</string>
+
+    <string name="canceledPictureMessage">Canceled picture</string>
+    <string name="timerCountdownMessageFormat">Taking picture in %d seconds</string>
+    <string name="savedPictureMessage">Saved picture</string>
+
+    <string name="noImagesFound">You have not taken any pictures yet.</string>
+
+    <string name="about_text">Photo Timer 1.0\n© 2018 Rauba Alexey\nComments and bug reports: www.ginexom@mail.com</string>
+
+</resources>
